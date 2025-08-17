@@ -4,7 +4,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 //  TETRIS MODERNO — MÓVIL
 //  - Responsive al viewport
 //  - Gestos táctiles (swipe/tap)
-//  - Controles en pantalla grandes
+//  - Controles en pantalla grandess
 // ==========================
 
 const COLS = 10;
